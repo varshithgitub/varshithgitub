@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Varshith !!!1
+- 👋 Hi, I’m Varshith !!!
 - 🔥I am a Data Enthusiast and a front-end developer.
 - 👀 I’m interested in data analytics and front-end web development
 - 🌱 I’m currently learning machine learning algorithms and visualization tools
